@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">呼叫系统</string>
+    <string name="title_activity_info">详情</string>
+
+    <string name="action_settings">提交信息</string>
+    <string name="input">本机号码</string>
+</resources>
